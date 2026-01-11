@@ -1,0 +1,497 @@
+[
+  {
+    "filename": "360_F_938978009_8IEzrz7aI9VkmFdZasTiLKUZ16ZL1Fuq_jpg.rf.8d8eaceaaf28d699a7293f6a77a1b7d8.jpg",
+    "timestamp": "2026-01-11T10:38:40.213Z",
+    "date": "2026-01-11",
+    "time": "10:38:40",
+    "class": "severe_malnutrition",
+    "confidence": 96,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "Sally-Laia-Kids-Bikini-11521-1_768x-progressive_jpg.rf.598ac2d6a5c0bf46f2aa6a104b4c19cd.jpg",
+    "timestamp": "2026-01-11T10:38:42.809Z",
+    "date": "2026-01-11",
+    "time": "10:38:42",
+    "class": "normal_malnutrition",
+    "confidence": 97,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "customized-kids-swimwear-sport-competition-brief-for-boys1-0494535001599129355-jpg_jpg.rf.593a3590fac04b6ca9c78343b088af80.jpg",
+    "timestamp": "2026-01-11T10:38:45.357Z",
+    "date": "2026-01-11",
+    "time": "10:38:45",
+    "class": "normal_malnutrition",
+    "confidence": 97,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "4800063_25035_01_MODEL_jpg.rf.b43e363a655362dd0a454365d8b8a2b7.jpg",
+    "timestamp": "2026-01-11T10:38:47.613Z",
+    "date": "2026-01-11",
+    "time": "10:38:47",
+    "class": "normal_malnutrition",
+    "confidence": 97,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "573800_263724_800_auto_jpg_jpg.rf.70b59c640ef11b5371f7ad364a61a3c6.jpg",
+    "timestamp": "2026-01-11T10:38:50.191Z",
+    "date": "2026-01-11",
+    "time": "10:38:50",
+    "class": "severe_malnutrition",
+    "confidence": 97,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "boy-pulling-funny-face-15067398_jpg.rf.fef80180e04474993b74638631430538.jpg",
+    "timestamp": "2026-01-11T10:38:52.451Z",
+    "date": "2026-01-11",
+    "time": "10:38:52",
+    "class": "mild_malnutrition",
+    "confidence": 88,
+    "class_simple": "mild"
+  },
+  {
+    "filename": "268395-skinny-boy-flexing-one-arm-eg-healthy-diet-and-fitness-grow-strong_jpg.rf.b882ea5a4749b83836e896c220a13ad3.jpg",
+    "timestamp": "2026-01-11T10:38:55.814Z",
+    "date": "2026-01-11",
+    "time": "10:38:55",
+    "class": "normal_malnutrition",
+    "confidence": 95,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "beach-14129966_jpg.rf.05269b1faa335cd49f380da1d3e905d6.jpg",
+    "timestamp": "2026-01-11T10:38:58.370Z",
+    "date": "2026-01-11",
+    "time": "10:38:58",
+    "class": "mild_malnutrition",
+    "confidence": 91,
+    "class_simple": "mild"
+  },
+  {
+    "filename": "handsome-happy-little-boy-sunglasses-showing-number-one-finger-gesture-summer-water-park-vacation-caucasian-151468240_jpg.rf.90d479b411faef2e62f1552acc0ac796.jpg",
+    "timestamp": "2026-01-11T10:39:00.921Z",
+    "date": "2026-01-11",
+    "time": "10:39:00",
+    "class": "mild_malnutrition",
+    "confidence": 83,
+    "class_simple": "mild"
+  },
+  {
+    "filename": "images-1-_jpg.rf.4ed291b587e84035cc7ee0728ca35bc9.jpg",
+    "timestamp": "2026-01-11T10:39:03.175Z",
+    "date": "2026-01-11",
+    "time": "10:39:03",
+    "class": "severe_malnutrition",
+    "confidence": 93,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "happy-boy-at-beach_jpg.rf.0a73753a1e95b1114b7f8e23024c9e41.jpg",
+    "timestamp": "2026-01-11T10:39:06.662Z",
+    "date": "2026-01-11",
+    "time": "10:39:06",
+    "class": "mild_malnutrition",
+    "confidence": 94,
+    "class_simple": "mild"
+  },
+  {
+    "filename": "978-3-642-02202-9_53_Fig3_HTML_jpg.rf.7ea36b24636279f55494895e19636d15.jpg",
+    "timestamp": "2026-01-11T10:39:09.663Z",
+    "date": "2026-01-11",
+    "time": "10:39:09",
+    "class": "severe_malnutrition",
+    "confidence": 97,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "teenage-boy-shorts-plays-mountain-river-shallow-water-summer-176240811_jpg.rf.2de80a5b15a8d876af321e599f40fa77.jpg",
+    "timestamp": "2026-01-11T10:39:12.221Z",
+    "date": "2026-01-11",
+    "time": "10:39:12",
+    "class": "mild_malnutrition",
+    "confidence": 91,
+    "class_simple": "mild"
+  },
+  {
+    "filename": "177211092-a-small-thin-boy-without-muscles-raised-his-arms-to-the-top-and-shows-biceps-lean-and-skinny_jpg.rf.3c16b95d6ee1d8ad88ce03c24c98af86.jpg",
+    "timestamp": "2026-01-11T10:39:16.132Z",
+    "date": "2026-01-11",
+    "time": "10:39:16",
+    "class": "mild_malnutrition",
+    "confidence": 94,
+    "class_simple": "mild"
+  },
+  {
+    "filename": "81Z-gQ1JbtL_jpg.rf.d5da87107a0d6c35defc56e17a117732.jpg",
+    "timestamp": "2026-01-11T10:39:18.390Z",
+    "date": "2026-01-11",
+    "time": "10:39:18",
+    "class": "normal_malnutrition",
+    "confidence": 97,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "amanzi-toddler-boys-looking-shark-trunks-am25229-6_jpg.rf.cea442ff216eed8f774024b438bf1d3c.jpg",
+    "timestamp": "2026-01-11T10:39:20.679Z",
+    "date": "2026-01-11",
+    "time": "10:39:20",
+    "class": "normal_malnutrition",
+    "confidence": 96,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "children-suffering-from-malnutrition-in-gaza-receive-v0-N2k4dHEzY2t0MmlmMRrcBqeFBWKreTktkpCubs7f1ErES0iWKn1hDL9EbQTf_jpg.rf.4871ebd1a4c9e6d86178321fd10118bb.jpg",
+    "timestamp": "2026-01-11T10:39:22.934Z",
+    "date": "2026-01-11",
+    "time": "10:39:22",
+    "class": "severe_malnutrition",
+    "confidence": 95,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "URMAGIC-Matching-Family-Swimsuits-Bikini-Sets-for-Women-Girl-Boy-Swim-Trunks-Mother-Daughter-Swimwear-Father-Son-Bathing-Suits_2bd4c93d-698_jpg.rf.94092ecfe7bb480487b7c670abd9665a.jpg",
+    "timestamp": "2026-01-11T10:39:25.191Z",
+    "date": "2026-01-11",
+    "time": "10:39:25",
+    "class": "normal_malnutrition",
+    "confidence": 97,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "5553-PlumpyNut-March2025-Header-1_jpg.rf.7120ad995c773557af1f3b4443c32625.jpg",
+    "timestamp": "2026-01-11T10:39:27.447Z",
+    "date": "2026-01-11",
+    "time": "10:39:27",
+    "class": "severe_malnutrition",
+    "confidence": 97,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "malnutrition-1652774567-165277-8438-6034-1652775473_jpg.rf.c77122bf1c82b7411ef5e59042473c2a.jpg",
+    "timestamp": "2026-01-11T10:39:29.721Z",
+    "date": "2026-01-11",
+    "time": "10:39:29",
+    "class": "severe_malnutrition",
+    "confidence": 97,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "slim-kid-coming-out-of-swimming-pool_jpg.rf.d907f6ddeabdd5b8479c5234127aa547.jpg",
+    "timestamp": "2026-01-11T10:39:32.324Z",
+    "date": "2026-01-11",
+    "time": "10:39:32",
+    "class": "mild_malnutrition",
+    "confidence": 74,
+    "class_simple": "mild"
+  },
+  {
+    "filename": "gaza-palestine-may-19-israels-blockade-of-border-crossings-has-pushed-2-4-million_jpg.rf.f4268613c2b51acd371e9be002c99b83.jpg",
+    "timestamp": "2026-01-11T10:39:34.581Z",
+    "date": "2026-01-11",
+    "time": "10:39:34",
+    "class": "severe_malnutrition",
+    "confidence": 97,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "Nopal-Nick-Kids-Trunks-17021-1_610d17d9-c14c-405b-aa23-f682990e55d5_jpg.rf.b23287fa8965d602f280406973caa445.jpg",
+    "timestamp": "2026-01-11T10:39:36.832Z",
+    "date": "2026-01-11",
+    "time": "10:39:36",
+    "class": "normal_malnutrition",
+    "confidence": 97,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "41x9hhShf1L_jpg.rf.82f6b2e4760373eea09e0acedc24fc39.jpg",
+    "timestamp": "2026-01-11T10:39:39.430Z",
+    "date": "2026-01-11",
+    "time": "10:39:39",
+    "class": "normal_malnutrition",
+    "confidence": 97,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "gaza-city-gaza-five-year-old-lana-salih-juha-who-fled-with-her-family-from-gazas-shujaiyya_jpg.rf.7c3602c1cc12ee33a7554d5e1136ffce.jpg",
+    "timestamp": "2026-01-11T10:39:43.448Z",
+    "date": "2026-01-11",
+    "time": "10:39:43",
+    "class": "moderate_malnutrition",
+    "confidence": 87,
+    "class_simple": "moderate"
+  },
+  {
+    "filename": "boy-aqua-park-27165122_jpg.rf.bea8f29cdae140966ec530dda12a2f98.jpg",
+    "timestamp": "2026-01-11T10:39:46.012Z",
+    "date": "2026-01-11",
+    "time": "10:39:46",
+    "class": "mild_malnutrition",
+    "confidence": 95,
+    "class_simple": "mild"
+  },
+  {
+    "filename": "se-m-maillot-garcon_jpg.rf.f8853df27159a300a329bb972ec5ebbf.jpg",
+    "timestamp": "2026-01-11T10:39:49.936Z",
+    "date": "2026-01-11",
+    "time": "10:39:49",
+    "class": "normal_malnutrition",
+    "confidence": 88,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "com_TI_oZXyUGMYKYONOMxgOEyfvYz0-_img_posts__jpg.rf.25c6d537205d00dab4add1497dae6ec5.jpg",
+    "timestamp": "2026-01-11T10:39:52.195Z",
+    "date": "2026-01-11",
+    "time": "10:39:52",
+    "class": "severe_malnutrition",
+    "confidence": 97,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "closeup-image-slim-asian-boy-260nw-767370991_jpg.rf.3fbb34aad9afa8acb0f3657c3e08200b.jpg",
+    "timestamp": "2026-01-11T10:39:54.445Z",
+    "date": "2026-01-11",
+    "time": "10:39:54",
+    "class": "normal_malnutrition",
+    "confidence": 95,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "PT9086KST058_1_1600x_jpg.rf.660f6bb9d0a9bfe816f0bd132e5b3d47.jpg",
+    "timestamp": "2026-01-11T10:39:56.717Z",
+    "date": "2026-01-11",
+    "time": "10:39:56",
+    "class": "normal_malnutrition",
+    "confidence": 97,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "portland-press-herald_3573868_jpg.rf.82892682d3a95e83be0cef1a8b2c04de.jpg",
+    "timestamp": "2026-01-11T10:40:00.692Z",
+    "date": "2026-01-11",
+    "time": "10:40:00",
+    "class": "severe_malnutrition",
+    "confidence": 97,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "beach-13088899_jpg.rf.0a94024cf715472ba7ca0916b8e85cb8.jpg",
+    "timestamp": "2026-01-11T10:40:02.970Z",
+    "date": "2026-01-11",
+    "time": "10:40:02",
+    "class": "normal_malnutrition",
+    "confidence": 91,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "a-young-skinny-boy-bathes-in-the-fresh-water-lake-nicaragua-B40YA5_jpg.rf.e1fc3b09a15882d5350a2707278a34c8.jpg",
+    "timestamp": "2026-01-11T10:40:05.232Z",
+    "date": "2026-01-11",
+    "time": "10:40:05",
+    "class": "mild_malnutrition",
+    "confidence": 86,
+    "class_simple": "mild"
+  },
+  {
+    "filename": "_104403261_ch1254919-jpg_jpg.rf.79c05efcd5c33b03e0d47db87bdd8b36.jpg",
+    "timestamp": "2026-01-11T10:40:07.491Z",
+    "date": "2026-01-11",
+    "time": "10:40:07",
+    "class": "severe_malnutrition",
+    "confidence": 97,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "boy-holding-sand-beach-portrait-young-cold-wet-coming-out-water-wet-hair-drops-water-him-50113187_jpg.rf.d293d89d9c128c48ad643a099c93142b.jpg",
+    "timestamp": "2026-01-11T10:40:09.751Z",
+    "date": "2026-01-11",
+    "time": "10:40:09",
+    "class": "mild_malnutrition",
+    "confidence": 80,
+    "class_simple": "mild"
+  },
+  {
+    "filename": "khan-yunis-gaza-5-month-old-suwar-ashur-one-of-hundreds-of-children-diagnosed-with_jpg.rf.ddfab6ffb688e7981af1ddfefbc56f56.jpg",
+    "timestamp": "2026-01-11T10:40:12.004Z",
+    "date": "2026-01-11",
+    "time": "10:40:12",
+    "class": "severe_malnutrition",
+    "confidence": 97,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "stock-photo-asia-skinny-boy-show-muscle-2264700403_jpg.rf.71fa593eaa8c4e0e5ec88dae24564a5d.jpg",
+    "timestamp": "2026-01-11T10:40:14.625Z",
+    "date": "2026-01-11",
+    "time": "10:40:14",
+    "class": "mild_malnutrition",
+    "confidence": 93,
+    "class_simple": "mild"
+  },
+  {
+    "filename": "child-boy-strong-school-eyeglasses-260nw-1664226466_jpg.rf.f0596ffc5ad165983fc6b387aa0f8782.jpg",
+    "timestamp": "2026-01-11T10:40:18.561Z",
+    "date": "2026-01-11",
+    "time": "10:40:18",
+    "class": "mild_malnutrition",
+    "confidence": 91,
+    "class_simple": "mild"
+  },
+  {
+    "filename": "PT9086KST059_1_1600x_jpg.rf.389e0ad5fbfdd48127d02d4e15e58456.jpg",
+    "timestamp": "2026-01-11T10:40:20.827Z",
+    "date": "2026-01-11",
+    "time": "10:40:20",
+    "class": "normal_malnutrition",
+    "confidence": 97,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "_url-http_3A_2F_2Fsbs-au-brightspot-s3-amazonaws-com_2Fdrupal_2Fnews_2Fpublic_2F20180914001361083847-original_jpg.rf.ace4b5e6a45dbdc47ae19a2b30231100.jpg",
+    "timestamp": "2026-01-11T10:40:23.084Z",
+    "date": "2026-01-11",
+    "time": "10:40:23",
+    "class": "severe_malnutrition",
+    "confidence": 97,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "sunga-army-crepusculo-fresh-marinho-inf_jpg.rf.778a721804c63068cfcac7ef7025530e.jpg",
+    "timestamp": "2026-01-11T10:40:25.339Z",
+    "date": "2026-01-11",
+    "time": "10:40:25",
+    "class": "normal_malnutrition",
+    "confidence": 97,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "11-years-old-happy-boy-260nw-1489847108_jpg.rf.fa9589dbbbd2ec9315dd3bf9baa983b2.jpg",
+    "timestamp": "2026-01-11T10:40:27.591Z",
+    "date": "2026-01-11",
+    "time": "10:40:27",
+    "class": "mild_malnutrition",
+    "confidence": 55,
+    "class_simple": "mild"
+  },
+  {
+    "filename": "51Sro_1rnpL-_SX679_jpg.rf.b7033de1100a3d971c08553c01dd96b5.jpg",
+    "timestamp": "2026-01-11T10:40:29.845Z",
+    "date": "2026-01-11",
+    "time": "10:40:29",
+    "class": "normal_malnutrition",
+    "confidence": 97,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "activities-pool-boy-swimming-playing-water-i-cute-33757420_jpg.rf.f26497cdc5da0981d5bfa2bc4fa2b331.jpg",
+    "timestamp": "2026-01-11T10:40:32.114Z",
+    "date": "2026-01-11",
+    "time": "10:40:32",
+    "class": "mild_malnutrition",
+    "confidence": 95,
+    "class_simple": "mild"
+  },
+  {
+    "filename": "coastal_blue_boys_swim_shorts-1_jpg.rf.6dafe5c62d44f9d4a4391e3c1e691601.jpg",
+    "timestamp": "2026-01-11T10:40:34.391Z",
+    "date": "2026-01-11",
+    "time": "10:40:34",
+    "class": "normal_malnutrition",
+    "confidence": 97,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "2022626637918049230249171_jpg.rf.4814a518c47adcbbee9cdd66280778de.jpg",
+    "timestamp": "2026-01-11T10:40:36.667Z",
+    "date": "2026-01-11",
+    "time": "10:40:36",
+    "class": "severe_malnutrition",
+    "confidence": 97,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "3_1668738432611_jpg.rf.0980d1ac794a9a34b7c873c9c9642c4b.jpg",
+    "timestamp": "2026-01-11T10:40:38.926Z",
+    "date": "2026-01-11",
+    "time": "10:40:38",
+    "class": "normal_malnutrition",
+    "confidence": 97,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "Nigeria-201807252-jpg_jpg.rf.845ba308b8e1f2d67806b57c352f7cc6.jpg",
+    "timestamp": "2026-01-11T10:40:41.181Z",
+    "date": "2026-01-11",
+    "time": "10:40:41",
+    "class": "severe_malnutrition",
+    "confidence": 85,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "pool-happy-97171_jpg.rf.9ebb5ead34fd08ef92530bbfce72672b.jpg",
+    "timestamp": "2026-01-11T10:40:43.438Z",
+    "date": "2026-01-11",
+    "time": "10:40:43",
+    "class": "mild_malnutrition",
+    "confidence": 92,
+    "class_simple": "mild"
+  },
+  {
+    "filename": "a-2-year-old-boy-suffering-from-serious-malnutrition-with-severe-wastening-CRPYTR_jpg.rf.155e61d5c36497526670de9ebe773efa.jpg",
+    "timestamp": "2026-01-11T10:40:45.714Z",
+    "date": "2026-01-11",
+    "time": "10:40:45",
+    "class": "severe_malnutrition",
+    "confidence": 96,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "article-2142014-12941624000005DC-422_306x522_jpg.rf.d9aaf79c07c45f7bc48d13967ad60f52.jpg",
+    "timestamp": "2026-01-11T10:40:47.966Z",
+    "date": "2026-01-11",
+    "time": "10:40:47",
+    "class": "normal_malnutrition",
+    "confidence": 97,
+    "class_simple": "normal"
+  },
+  {
+    "filename": "GwuVWaKWoAEKbdT_jpg.rf.b29c9315c494a6503cf19fc68ff0ceff.jpg",
+    "timestamp": "2026-01-11T10:40:50.221Z",
+    "date": "2026-01-11",
+    "time": "10:40:50",
+    "class": "severe_malnutrition",
+    "confidence": 97,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "1955119-malnourished_jpg.rf.8fa00115689a043a2ecb169eae75a057.jpg",
+    "timestamp": "2026-01-11T10:40:52.479Z",
+    "date": "2026-01-11",
+    "time": "10:40:52",
+    "class": "severe_malnutrition",
+    "confidence": 97,
+    "class_simple": "severe"
+  },
+  {
+    "filename": "s8UkSOoVRrytm6fW9x5DiA_jpg.rf.f0f79eed6271805b89ab0f4822eadcd9.jpg",
+    "timestamp": "2026-01-11T10:40:54.726Z",
+    "date": "2026-01-11",
+    "time": "10:40:54",
+    "class": "moderate_malnutrition",
+    "confidence": 76,
+    "class_simple": "moderate"
+  },
+  {
+    "filename": "0db8305b-b1c4-4c7d-98d6-313d8f8aff24-jumbo1x1_AP18325307458797_jpg.rf.2b06f35a3ae92f6cdd786f4c370c9395.jpg",
+    "timestamp": "2026-01-11T10:40:56.974Z",
+    "date": "2026-01-11",
+    "time": "10:40:56",
+    "class": "severe_malnutrition",
+    "confidence": 97,
+    "class_simple": "severe"
+  }
+]

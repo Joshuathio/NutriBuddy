@@ -1,0 +1,42 @@
+{
+  "name": "malnutritiontracker-backend",
+  "version": "2.0.0",
+  "description": "Complete Backend for MalnutritionTracker App with GPT, Vision, and Gemini support",
+  "main": "gpt-backend.js",
+  "scripts": {
+    "start": "node gpt-backend.js",
+    "gpt": "node gpt-backend.js",
+    "gemini": "node gemini-backend.js",
+    "vision": "node vision-backend.js",
+    "dev": "nodemon gpt-backend.js",
+    "test": "node -e \"console.log('Testing GPT connection...')\" && curl -X POST http://localhost:3000/test",
+    "all": "concurrently \"npm run gpt\" \"npm run vision\""
+  },
+  "keywords": [
+    "malnutrition",
+    "gpt",
+    "openai",
+    "medical",
+    "healthcare"
+  ],
+  "author": "MalnutritionTracker Team",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.2.1",
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1",
+    "form-data": "^4.0.0",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.34.5"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.3"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
